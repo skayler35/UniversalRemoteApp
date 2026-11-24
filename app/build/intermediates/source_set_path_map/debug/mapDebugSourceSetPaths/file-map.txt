@@ -1,0 +1,7 @@
+com.example.universalremote.app-pngs-0 /storage/emulated/0/Download/UniversalRemote_ci_hardened-3/project/app/build/generated/res/pngs/debug
+com.example.universalremote.app-resValues-1 /storage/emulated/0/Download/UniversalRemote_ci_hardened-3/project/app/build/generated/res/resValues/debug
+com.example.universalremote.app-packageDebugResources-2 /storage/emulated/0/Download/UniversalRemote_ci_hardened-3/project/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.universalremote.app-packageDebugResources-3 /storage/emulated/0/Download/UniversalRemote_ci_hardened-3/project/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.universalremote.app-debug-4 /storage/emulated/0/Download/UniversalRemote_ci_hardened-3/project/app/build/intermediates/merged_res/debug/mergeDebugResources
+com.example.universalremote.app-debug-5 /storage/emulated/0/Download/UniversalRemote_ci_hardened-3/project/app/src/debug/res
+com.example.universalremote.app-main-6 /storage/emulated/0/Download/UniversalRemote_ci_hardened-3/project/app/src/main/res
