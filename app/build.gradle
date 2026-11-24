@@ -22,4 +22,4 @@ kotlinOptions {
         versionName '1.6.0'
     }
 }
-jvmTarget = '17' 
+
